@@ -1,7 +1,6 @@
 sentence = "Big poppa in the hous....... Who.... ate... my.. POURAGE!"
 
 def reverse_each_word(sentence)
- array = []
  array2 = []
  array = sentence.split
  array.each do |word|
@@ -19,3 +18,4 @@ reverse_each_word(sentence)
 
 
 
+ 
